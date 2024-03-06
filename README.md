@@ -1,4 +1,4 @@
-## 🙋🏻‍♂️ Hi, I'm David!
+# 🙋🏻‍♂️ Hi, I'm David!
 
 👨🏻‍💻 Enthusiastic <strong>Junior Web Developer</strong> with a keen interest in creating meaningful and user-friendly web applications<br/>
 🎓 Currently diving deeper into front-end technologies in <strong>[TBC IT Academy](https://www.tbcacademy.ge)</strong><br/>
