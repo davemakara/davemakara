@@ -1,7 +1,7 @@
 # 🙋🏻‍♂️ Hi, I'm David!
 
 👨🏻‍💻 Enthusiastic <strong>Junior Web Developer</strong> with a keen interest in creating meaningful and user-friendly web applications<br/>
-🎓 Currently diving deeper into front-end technologies in <strong>[TBC IT Academy](https://www.tbcacademy.ge)</strong><br/>
+🎓 Currently diving deeper into front-end technologies with <strong>[TBC IT Academy](https://www.tbcacademy.ge)</strong><br/>
 📈 Always open to collaborating on interesting projects<br/>
 🌐 <strong>[Portfolio](https://davemakara.github.io/my-portfolio/)</strong><br/>
 
