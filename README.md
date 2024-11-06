@@ -1,7 +1,6 @@
 # 🙋🏻‍♂️ Hi, I'm David!
 
-👨🏻‍💻 Enthusiastic <strong>Front-end Developer</strong> with a keen interest in creating meaningful and user-friendly web applications<br/>
-🎓 Studied front-end technologies in <strong>[TBC IT Academy](https://www.tbcacademy.ge)</strong><br/>
+👨🏻‍💻 Enthusiastic <strong>Quality Assurance Specialist</strong> with a strong foundation in front-end development<br/>
 📈 Always open to collaborating on interesting projects<br/>
 🌐 <strong>[Portfolio](https://portfolio-davemakara.vercel.app/)</strong><br/>
 
