@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ Hi, I'm David!
+# 🙋🏻‍♂️ Hi, I'm Dave!
 
 👨🏻‍💻 Enthusiastic <strong>Quality Assurance Specialist</strong> with a strong foundation in front-end development<br/>
 📈 Always open to collaborating on interesting projects<br/>
